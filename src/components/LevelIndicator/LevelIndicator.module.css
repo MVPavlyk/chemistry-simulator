@@ -1,0 +1,26 @@
+.level__wrapper {
+    width: 90%;
+    height: 20px;
+    border-radius: 10px;
+    border: 2px solid #CDC9C9;
+    position: relative;
+}
+
+.level__number {
+    position: absolute;
+    top: 0;
+    left: 2%;
+    font-size: 14px;
+    font-weight: 500;
+    color: #05386B;
+}
+
+.level__inner, .level__inner_critical {
+    height: 100%;
+    border-radius: 10px;
+    background: linear-gradient(131.83deg, #B6E1C7 16.94%, #5CDB95 100%);
+}
+
+.level__inner_critical {
+    background: linear-gradient(131.83deg, #EE9B9A 16.94%, #CE1312 100%);
+}
