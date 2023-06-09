@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chemistry-simulator/static/css/main.14d38147.css",
-    "main.js": "/chemistry-simulator/static/js/main.51d5259e.js",
+    "main.js": "/chemistry-simulator/static/js/main.9f38ae1a.js",
     "static/media/logo.svg": "/chemistry-simulator/static/media/logo.e2fd7876d9bc2a473290f93e75ec4b67.svg",
     "index.html": "/chemistry-simulator/index.html",
     "static/media/close.svg": "/chemistry-simulator/static/media/close.0eb18934866419ca5a0ca3752134d8ef.svg",
     "main.14d38147.css.map": "/chemistry-simulator/static/css/main.14d38147.css.map",
-    "main.51d5259e.js.map": "/chemistry-simulator/static/js/main.51d5259e.js.map"
+    "main.9f38ae1a.js.map": "/chemistry-simulator/static/js/main.9f38ae1a.js.map"
   },
   "entrypoints": [
     "static/css/main.14d38147.css",
-    "static/js/main.51d5259e.js"
+    "static/js/main.9f38ae1a.js"
   ]
 }
